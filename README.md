@@ -1,2 +1,3 @@
-# hyper-survey-tool-1ni5
+# Hyper Survey Tool 1Ni5
+
 A repository to test GitHub automation for issue management.
